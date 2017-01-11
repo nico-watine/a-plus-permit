@@ -235,6 +235,23 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/nico/SNC Projects/A Plus Permit/Site Folder/apluspermit.com/a-plus-permit/index.html",
+			"settings":
+			{
+				"buffer_size": 8039,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/A Plus Permit/Site Folder/apluspermit.com/a-plus-permit/send_form_email.php",
+			"settings":
+			{
+				"buffer_size": 2908,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -381,10 +398,16 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/nico/SNC Projects/A Plus Permit/Site Folder/apluspermit.com/a-plus-permit"
+		"/Users/nico/SNC Projects/A Plus Permit/Site Folder/apluspermit.com/a-plus-permit",
+		"/Users/nico/SNC Projects/A Plus Permit/Site Folder/apluspermit.com/a-plus-permit/_ignores",
+		"/Users/nico/SNC Projects/A Plus Permit/Site Folder/apluspermit.com/a-plus-permit/_ignores/original-site"
 	],
 	"file_history":
 	[
+		"/Users/nico/SNC Projects/A Plus Permit/Site Folder/apluspermit.com/a-plus-permit/.gitignore",
+		"/Users/nico/SNC Projects/A Plus Permit/Site Folder/apluspermit.com/a-plus-permit/humans.txt",
+		"/Users/nico/SNC Projects/A Plus Permit/Site Folder/apluspermit.com/a-plus-permit/README.md",
+		"/Users/nico/SNC Projects/A Plus Permit/Site Folder/apluspermit.com/a-plus-permit/index.html",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/the-deck-on-fountainview/css/app-m.css",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/the-deck-on-fountainview/scss/pages/menu/_menu.scss",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/the-deck-on-fountainview/scss/pages/menu/_menu-item.scss",
@@ -508,15 +531,11 @@
 		"/Users/nico/SNC Projects/Houston PALS/Site Folder/houstonpals.com/dist/index.php",
 		"/Users/nico/SNC Projects/Houston PALS/Site Folder/houstonpals.com/scss/settings/_custom-settings.scss",
 		"/Users/nico/SNC Projects/Houston PALS/Site Folder/houstonpals.com/scss/pages/index/_index.scss",
-		"/Users/nico/SNC Projects/Houston PALS/Site Folder/houstonpals.com/assets/.htaccess",
-		"/Users/nico/SNC Projects/Houston PALS/Site Folder/houstonpals.com/_ignores/google-tracking-id.html",
-		"/Users/nico/SNC Projects/Houston PALS/Site Folder/houstonpals.com/scss/blocks/_footer.scss",
-		"/Users/nico/SNC Projects/Houston PALS/Site Folder/houstonpals.com/src/partials/footer.html",
-		"/Users/nico/SNC Projects/Houston PALS/Site Folder/houstonpals.com/assets/humans.txt"
+		"/Users/nico/SNC Projects/Houston PALS/Site Folder/houstonpals.com/assets/.htaccess"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -531,6 +550,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"type=\"text/javascript\" ",
+			" rel=\"stylesheet\"",
+			"<!--/",
 			"sandwiches",
 			"Sandwiches",
 			"sandwiches",
@@ -655,10 +677,7 @@
 			"Options -Multi",
 			"x-ua",
 			"scss",
-			"extra",
-			"img/**/**/**/**/**/**/**/**/**/**/**/**/**/*",
-			"fonts/**/**/**/**/**/**/**/**/**/*",
-			"necessary"
+			"extra"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -702,8 +721,248 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/nico/SNC Projects/A Plus Permit/Site Folder/apluspermit.com/a-plus-permit/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8039,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2692,
+								2692
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3495,
+										3496
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2667,
+										2668
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1314.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/nico/SNC Projects/A Plus Permit/Site Folder/apluspermit.com/a-plus-permit/send_form_email.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2908,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2624,
+								2624
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2902,
+										2903
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										35,
+										36
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2461.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1273,9 +1532,21 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "stu",
+		"last_filter": "big",
 		"selected_items":
 		[
+			[
+				"big",
+				"~/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/bigcommerce-theming/_ignores/bigcommerce-theming.sublime-project"
+			],
+			[
+				"za",
+				"~/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/zaraza-design/_ignores/zaraza-design.sublime-project"
+			],
+			[
+				"hou",
+				"~/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/_ignores/houston-interior-plants.sublime-project"
+			],
 			[
 				"stu",
 				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/studio-n-creations/_ignores/studio-n-creations.sublime-project"
@@ -1287,10 +1558,6 @@
 			[
 				"fou",
 				"~/Web Development/Foundation/Foundation 6/foundation-6.static/_ignores/foundation-6-boilerplate.sublime-project"
-			],
-			[
-				"hou",
-				"~/SNC Projects/Heights of Health/Site Folder/heightsofhealth.com/_ignores/heights-of-health.sublime-project"
 			],
 			[
 				"ca",
@@ -1311,10 +1578,6 @@
 			[
 				"tan",
 				"~/SNC Projects/TanSpire/Site Folder/tanspire.com/tanspire/_ignores/tanspire.sublime-project"
-			],
-			[
-				"za",
-				"~/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/_ignores/zaraza-design.sublime-project"
 			],
 			[
 				"studio",
@@ -1552,7 +1815,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 196.0,
+	"side_bar_width": 181.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

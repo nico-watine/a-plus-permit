@@ -121,7 +121,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_ignores\/resources\/modal-example\/reveal-min.css",
 		"oF": 0,
 		"oS": 0
@@ -131,7 +131,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/css\/ie8-and-down-min.css",
 		"oF": 0,
 		"oS": 0
@@ -141,7 +141,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/css\/reveal-min.css",
 		"oF": 0,
 		"oS": 0
@@ -151,7 +151,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/css\/skeleton-min.css",
 		"oF": 0,
 		"oS": 0
@@ -161,7 +161,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/css\/style-2-min.css",
 		"oF": 0,
 		"oS": 0
@@ -171,7 +171,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/css\/styles-min.css",
 		"oF": 0,
 		"oS": 0
@@ -273,6 +273,12 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "\/build\/node_modules",
+		"oF": 0
 		},
 	"\/permits\/coh-water.pdf": {
 		"ft": 8192,
@@ -2032,7 +2038,7 @@
 		"syntaxCheckerStyle": 1
 		},
 	"languageDefaultsCSS": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*-min.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",

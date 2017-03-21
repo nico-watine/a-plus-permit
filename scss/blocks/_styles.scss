@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700|PT+Serif:400,700);/* normalize.css v2.0.1 | MIT License | git.io/normalize */
+/* normalize.css v2.0.1 | MIT License | git.io/normalize */
 article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary {
     display: block
 }
@@ -498,11 +498,11 @@ header.band {
     width: 100%;
 }
 
-@media only screen and (min-width: 767px)header.band {
+@media only screen and (min-width: 767px) {
+header.band {
     background-image: url(../img/background2-white.jpg);
     width:100%;}
 
-{
     header.band2 {
         background-image: url(../img/ceiling-enlarged.jpg) center no-repeat;
         width: 100%;
@@ -538,3 +538,4 @@ header.band {
     a.button {
         padding: 0.75em 1.5
     }
+}

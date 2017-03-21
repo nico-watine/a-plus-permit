@@ -25,7 +25,7 @@
 .reveal-modal {
 	visibility: hidden;
 	top: 100px; 		
-	background: #eee url(../img/modal-gloss.png) no-repeat -200px -80px;
+	background: #eee url(/img/modal-gloss.png) no-repeat -200px -80px;
 	position: absolute;
 	z-index: 101;
 	padding: 30px 40px 34px;
@@ -44,7 +44,7 @@
 		width: 460px;
 		left: 50%;
 		margin-left: -230px;	
-		background: #eee url(../../apluspermit/css/modal-gloss.png) no-repeat -200px -80px;
+		background: #eee url(/img/modal-gloss.png) no-repeat -200px -80px;
 		position: absolute;
 		z-index: 101;
 		padding: 30px 40px 34px;

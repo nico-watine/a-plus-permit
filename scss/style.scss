@@ -1,5 +1,11 @@
 
+// normalize 5.0
+@import "../bower_components/normalize-css/normalize.css";
+// skeleton
 @import "blocks/_skeleton.scss";
+// modal styles
 @import "blocks/_reveal.scss";
+// typography styles
 @import "components/_typography.scss";
+// extra styles to be organized
 @import "blocks/_style-2.scss";

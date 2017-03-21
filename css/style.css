@@ -566,6 +566,45 @@ a:hover {
   text-decoration: underline;
 }
 
+h1, h2, h3 {
+  font-family: "PT Serif",serif;
+  font-weight: 700;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.6em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+h3 {
+  font-size: 1.1em;
+  font-family: "PT Sans",sans-serif;
+  font-weight: 700;
+  margin-bottom: 1em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+a.button {
+  background: #e33f0c;
+  text-align: center;
+  padding: 0.5em 1em;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  box-shadow: 0 0.2em 0 #ab3009;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  -webkit-transition: background 0.2s ease-out;
+  transition: background 0.2s ease-out;
+}
+
+a.button:hover {
+  background: #ab3009;
+}
+
 .ladder {
   text-align: center;
   color: #cc3333;
@@ -628,49 +667,10 @@ header.band {
   padding: 10% 0 15% 0;
 }
 
-h1, h2, h3 {
-  font-family: "PT Serif",serif;
-  font-weight: 700;
-  text-align: center;
-}
-
 header.band h1 {
   font-size: 3em;
   line-height: 1em;
   margin-bottom: 1em;
-}
-
-h2 {
-  font-size: 1.6em;
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
-}
-
-h3 {
-  font-size: 1.1em;
-  font-family: "PT Sans",sans-serif;
-  font-weight: 700;
-  margin-bottom: 1em;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-}
-
-a.button {
-  background: #e33f0c;
-  text-align: center;
-  padding: 0.5em 1em;
-  color: white;
-  font-weight: bold;
-  text-decoration: none;
-  box-shadow: 0 0.2em 0 #ab3009;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  -webkit-transition: background 0.2s ease-out;
-  transition: background 0.2s ease-out;
-}
-
-a.button:hover {
-  background: #ab3009;
 }
 
 footer {

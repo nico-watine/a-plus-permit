@@ -1,0 +1,47 @@
+header.band {
+    background-image: url('/img/background2-white.jpg');
+    background-size: 100%
+}
+
+header.band2 {
+    background-image: url('/img/ceiling-enlarged.jpg');
+    background-size: 100%;
+    color: white;
+    text-align: center;
+    padding: 10% 0 15% 0
+}
+
+header.band2 {
+    background-image: url('/img/ceiling-enlarged.jpg') center no-repeat;
+    background-size: 100%
+}
+
+header.band {
+    background-image: url('/img/background2-white.jpg');
+    width: 100%;
+}
+
+@media only screen and (min-width: 767px) {
+    header.band {
+        background-image: url('/img/background2-white.jpg');
+        width:100%;
+    }
+
+    header.band2 {
+        background-image: url('/img/ceiling-enlarged.jpg') center no-repeat;
+        width: 100%;
+        color: white;
+        text-align: center;
+        padding: 10% 0 15% 0
+    }
+
+    header.band2 {
+        background-image: url('/img/ceiling-enlarged.jpg') center no-repeat;
+        width: cover;
+    }
+
+    header.band {
+        background-image: url('/img/background2-white.jpg') center no-repeat;
+        width: cover;
+    }
+}

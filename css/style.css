@@ -605,37 +605,19 @@ a.button:hover {
   background: #ab3009;
 }
 
-header.band2 {
-  background-image: url("/img/ceiling-enlarged.jpg");
-  background-size: 100%;
+.ladder-slogan {
+  background: #fff url("/img/ceiling-enlarged.jpg") center/100% no-repeat;
+  width: 100%;
   color: white;
   text-align: center;
   padding: 10% 0 15% 0;
 }
 
-header.band2 {
-  background: url("/img/ceiling-enlarged.jpg") center/100% no-repeat;
-}
-
-header.band {
+.parallax-hero {
   background: #fff url("/img/page-hero.jpg") center/100% no-repeat;
   width: 100%;
   text-align: center;
   padding: 10% 0 15% 0;
-}
-
-@media only screen and (min-width: 767px) {
-  header.band2 {
-    background-image: url("/img/ceiling-enlarged.jpg") center no-repeat;
-    width: 100%;
-    color: white;
-    text-align: center;
-    padding: 10% 0 15% 0;
-  }
-  header.band2 {
-    background-image: url("/img/ceiling-enlarged.jpg") center no-repeat;
-    width: cover;
-  }
 }
 
 .ladder {

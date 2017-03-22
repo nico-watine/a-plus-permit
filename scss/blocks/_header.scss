@@ -1,58 +1,17 @@
 
-header.band2 {
-    background-image: url('/img/ceiling-enlarged.jpg');
-    background-size: 100%;
-    color: white;
-    text-align: center;
-    padding: 10% 0 15% 0
+
+.ladder-slogan {
+	background: #fff url('/img/ceiling-enlarged.jpg') center/100% no-repeat;
+	width: 100%;
+	color: white;
+	text-align: center;
+	padding: 10% 0 15% 0;
 }
 
-header.band2 {
-    background: url('/img/ceiling-enlarged.jpg') center/100% no-repeat;
-    // background-image: url('/img/ceiling-enlarged.jpg') center no-repeat;
-    // background-size: 100%
-}
 
-header.band {
-    background: #fff url('/img/page-hero.jpg') center/100% no-repeat;
-    width: 100%;
-    text-align: center;
-    padding: 10% 0 15% 0;
-}
-
-// header.band {
-//     background: #ffffff;
-//     color: white;
-//     text-align: center;
-//     padding: 10% 0 15% 0;
-// }
-
-// header.band {
-//     background-image: url('/img/page-hero.jpg');
-//     background-size: 100%
-// }
-
-@media only screen and (min-width: 767px) {
-    // header.band {
-    //     background-image: url('/img/page-hero.jpg');
-    //     width:100%;
-    // }
-
-    // header.band {
-    //     background-image: url('/img/page-hero.jpg') center no-repeat;
-    //     width: cover;
-    // }
-
-    header.band2 {
-        background-image: url('/img/ceiling-enlarged.jpg') center no-repeat;
-        width: 100%;
-        color: white;
-        text-align: center;
-        padding: 10% 0 15% 0
-    }
-
-    header.band2 {
-        background-image: url('/img/ceiling-enlarged.jpg') center no-repeat;
-        width: cover;
-    }
+.parallax-hero {
+	background: #fff url('/img/page-hero.jpg') center/100% no-repeat;
+	width: 100%;
+	text-align: center;
+	padding: 10% 0 15% 0;
 }

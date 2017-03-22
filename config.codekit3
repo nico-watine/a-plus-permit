@@ -300,6 +300,15 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/page-hero.jpg": {
+		"ft": 16384,
+		"iS": 121766,
+		"oA": 1,
+		"oAP": "\/img\/page-hero.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,

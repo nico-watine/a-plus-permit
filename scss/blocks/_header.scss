@@ -1,7 +1,3 @@
-header.band {
-    background-image: url('/img/background2-white.jpg');
-    background-size: 100%
-}
 
 header.band2 {
     background-image: url('/img/ceiling-enlarged.jpg');
@@ -12,20 +8,40 @@ header.band2 {
 }
 
 header.band2 {
-    background-image: url('/img/ceiling-enlarged.jpg') center no-repeat;
-    background-size: 100%
+    background: url('/img/ceiling-enlarged.jpg') center/100% no-repeat;
+    // background-image: url('/img/ceiling-enlarged.jpg') center no-repeat;
+    // background-size: 100%
 }
 
 header.band {
-    background-image: url('/img/background2-white.jpg');
+    background: #fff url('/img/page-hero.jpg') center/100% no-repeat;
     width: 100%;
+    text-align: center;
+    padding: 10% 0 15% 0;
 }
 
+// header.band {
+//     background: #ffffff;
+//     color: white;
+//     text-align: center;
+//     padding: 10% 0 15% 0;
+// }
+
+// header.band {
+//     background-image: url('/img/page-hero.jpg');
+//     background-size: 100%
+// }
+
 @media only screen and (min-width: 767px) {
-    header.band {
-        background-image: url('/img/background2-white.jpg');
-        width:100%;
-    }
+    // header.band {
+    //     background-image: url('/img/page-hero.jpg');
+    //     width:100%;
+    // }
+
+    // header.band {
+    //     background-image: url('/img/page-hero.jpg') center no-repeat;
+    //     width: cover;
+    // }
 
     header.band2 {
         background-image: url('/img/ceiling-enlarged.jpg') center no-repeat;
@@ -37,11 +53,6 @@ header.band {
 
     header.band2 {
         background-image: url('/img/ceiling-enlarged.jpg') center no-repeat;
-        width: cover;
-    }
-
-    header.band {
-        background-image: url('/img/background2-white.jpg') center no-repeat;
         width: cover;
     }
 }

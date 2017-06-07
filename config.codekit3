@@ -154,6 +154,12 @@
 		"oAP": "\/bower_components\/normalize-css\/.editorconfig",
 		"oF": 0
 		},
+	"\/bower_components\/normalize-css\/.gitattributes": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/normalize-css\/.gitattributes",
+		"oF": 0
+		},
 	"\/bower_components\/normalize-css\/.gitignore": {
 		"ft": 8192,
 		"oA": 2,

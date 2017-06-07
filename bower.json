@@ -34,5 +34,11 @@
   "private": true,
   "devDependencies": {
     "normalize-css": "^5.0.0"
+  },
+  "resolutions": {
+    "normalize-css": "^7.0.0"
+  },
+  "dependencies": {
+    "normalize-css": "^7.0.0"
   }
 }

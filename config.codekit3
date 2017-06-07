@@ -7,7 +7,7 @@
 		"uuidString": "39A938EC-52B5-4CBF-856F-3DC43520C870"
 		}
 	],
-"creatorBuild": "25704",
+"creatorBuild": "25813",
 "files": {
 	"\/.gitignore": {
 		"ft": 8192,
@@ -30,21 +30,23 @@
 	"\/_ignores\/codekit-icon.png": {
 		"ft": 32768,
 		"iS": 1961,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/_ignores\/codekit-icon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/_ignores\/original-site\/index.png": {
 		"ft": 32768,
 		"iS": 567653,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/_ignores\/original-site\/index.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/_ignores\/original-site\/original-site-files.zip": {
@@ -59,27 +61,30 @@
 		"oA": 0,
 		"oAP": "\/_ignores\/resources\/body-parallax.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/_ignores\/resources\/contact-icons.png": {
 		"ft": 32768,
 		"iS": 18425,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/_ignores\/resources\/contact-icons.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/_ignores\/resources\/header-parallax.png": {
 		"ft": 32768,
 		"iS": 1536473,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/_ignores\/resources\/header-parallax.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/_ignores\/resources\/modal-example\/index.html": {
@@ -109,11 +114,12 @@
 	"\/_ignores\/resources\/modal-example\/modal-gloss.png": {
 		"ft": 32768,
 		"iS": 2912,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/_ignores\/resources\/modal-example\/modal-gloss.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/_ignores\/resources\/modal-example\/reveal.css": {
@@ -235,21 +241,23 @@
 	"\/img\/about_us-2.png": {
 		"ft": 32768,
 		"iS": 2403,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/about_us-2.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/address2.png": {
 		"ft": 32768,
 		"iS": 1129,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/address2.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/background2-white.jpg": {
@@ -258,6 +266,7 @@
 		"oA": 0,
 		"oAP": "\/img\/background2-white.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -267,37 +276,41 @@
 		"oA": 0,
 		"oAP": "\/img\/ceiling-enlarged.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/img\/cell2.png": {
 		"ft": 32768,
 		"iS": 1486,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/cell2.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/logo.png": {
 		"ft": 32768,
 		"iS": 17386,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/modal-gloss.png": {
 		"ft": 32768,
 		"iS": 2006,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/modal-gloss.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/page-hero.jpg": {
@@ -306,6 +319,7 @@
 		"oA": 1,
 		"oAP": "\/img\/page-hero.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -1429,6 +1443,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
@@ -2253,14 +2271,6 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
@@ -2323,7 +2333,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"enableLossy": 1,
+		"optimizerType": 1,
 		"quality": 100
 		},
 	"languageDefaultsPUG": {

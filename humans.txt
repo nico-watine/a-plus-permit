@@ -1,22 +1,51 @@
-Hello savvy Internet wanderer!
+# --------------------------------------------------------
+# |            Hello savvy Internet wanderer!            |
+# --------------------------------------------------------
 
 This site is a Studio N Creation
+http://studioncreations.com
 
-Coded with <3 and powered by HTML5 for a better web
+Coded with care and powered by HTML5 for a better web
 
-================
 
-Need a website? :: nico@studioncreations.com
 
-================
+# --------------------------------------
+# |            Contact Info            |
+# --------------------------------------
+
+Project Lead:
+  Nico Watine
+  http://nicowatine.me
+  nico@studioncreations.com
+
+
+
+# ---------------------------------------
+# |            Site Colophon            |
+# ---------------------------------------
+
+Standards: 
+  HTML5
+  CSS3 pre-processed via SASS
+
+Components: 
+  insert_components
 
 Software: 
-  Sublime Text
+  Sublime Text 3
+  CodeKit 3
 
-What is this rambling file??
-humanstxt.org
 
-================
+
+# ------------------------------------------------------
+# |            What is this rambling file??            |
+# ------------------------------------------------------
+
+http://humanstxt.org
+
+
+
+================================
 
 
                     ++++++++          

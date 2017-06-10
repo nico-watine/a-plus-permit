@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nico-watine/a-plus-permit#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-uncss": "^1.0.6"
   }
 }

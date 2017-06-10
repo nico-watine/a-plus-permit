@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nico-watine/a-plus-permit/issues"
   },
-  "homepage": "https://github.com/nico-watine/a-plus-permit#readme"
+  "homepage": "https://github.com/nico-watine/a-plus-permit#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }

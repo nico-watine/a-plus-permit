@@ -1,0 +1,19 @@
+{
+  "name": "a-plus-permit",
+  "version": "1.0.0",
+  "description": "www.apluspermit.com site repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nico-watine@github.com/nico-watine/a-plus-permit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nico-watine/a-plus-permit/issues"
+  },
+  "homepage": "https://github.com/nico-watine/a-plus-permit#readme"
+}

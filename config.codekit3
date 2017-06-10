@@ -343,6 +343,14 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/permits\/coh-water.pdf": {
 		"ft": 8192,
 		"oA": 2,

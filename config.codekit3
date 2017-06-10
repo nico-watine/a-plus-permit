@@ -96,19 +96,19 @@
 	"\/_ignores\/resources\/modal-example\/jquery-1.4.4.min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_ignores\/resources\/modal-example\/min\/jquery-1.4.4.min-min.js",
+		"oA": 1,
+		"oAP": "\/_ignores\/resources\/modal-example\/jquery-1.4.4.min-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/_ignores\/resources\/modal-example\/jquery.reveal.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_ignores\/resources\/modal-example\/min\/jquery.reveal-min.js",
+		"oA": 1,
+		"oAP": "\/_ignores\/resources\/modal-example\/jquery.reveal-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/_ignores\/resources\/modal-example\/modal-gloss.png": {
@@ -228,6 +228,15 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/gulpfile.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/gulpfile-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"\/humans.txt": {
 		"ft": 8192,
 		"oA": 2,
@@ -328,20 +337,26 @@
 	"\/js\/jquery.reveal.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/js\/min\/jquery.reveal-min.js",
+		"oA": 1,
+		"oAP": "\/js\/jquery.reveal-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/js\/skrollr.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/js\/min\/skrollr-min.js",
+		"oA": 1,
+		"oAP": "\/js\/skrollr-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
+		},
+	"\/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "\/build\/node_modules",
+		"oF": 0
 		},
 	"\/package.json": {
 		"ft": 524288,
@@ -2274,15 +2289,15 @@
 		"quality": 100
 		},
 	"languageDefaultsJS": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*-min.js",
 		"autoOutputPathRelativePath": "\/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
-		"syntaxCheckerStyle": 1,
+		"syntaxCheckerStyle": 0,
 		"transpilerStyle": 0
 		},
 	"languageDefaultsJSON": {

@@ -216,7 +216,7 @@
 		"oA": 1,
 		"oAP": "\/css\/opt\/style-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/css\/style.css": {
 		"aP": 1,
@@ -517,7 +517,7 @@
 		"oA": 0,
 		"oAP": "\/css\/style.css",
 		"oF": 0,
-		"oS": 3,
+		"oS": 1,
 		"uL": 1
 		},
 	"\/send_form_email.php": {

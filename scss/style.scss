@@ -12,6 +12,9 @@
 // OTHER DOM ELEMENTS
 @import "components/_misc-elements.scss";
 
+// PAGE SPECIFICS
+@import "pages/index/_index.scss";
+
 // INDEX BLOCKS
 @import "blocks/_header.scss";
 @import "blocks/_footer.scss";

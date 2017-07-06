@@ -413,7 +413,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/blocks\/_reveal.scss": {
+	"\/scss\/blocks\/_modal.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -421,7 +421,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/_reveal.css",
+		"oAP": "\/scss\/css\/_modal.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

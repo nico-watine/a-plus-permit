@@ -1009,23 +1009,6 @@ h6 {
   letter-spacing: 1px;
 }
 
-a.button {
-  background: #e33f0c;
-  text-align: center;
-  padding: 0.5em 1em;
-  color: white;
-  font-weight: bold;
-  text-decoration: none;
-  box-shadow: 0 0.2em 0 #ab3009;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  transition: background 0.2s ease-out;
-}
-
-a.button:hover {
-  background: #ab3009;
-}
-
 img {
   display: inline-block;
   vertical-align: middle;

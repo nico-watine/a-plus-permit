@@ -2,21 +2,21 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700');
 
 body {
-    font-family: 'PT Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-weight: normal;
-    line-height: 1.5;
-    color: #353738;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+	font-family: 'PT Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	line-height: 1.5;
+	color: #353738;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 hr {
-    margin: 16px 0;
-    height: 1px;
-    background: #d3d3d3;
-    border: none;
-    width: 100%;
-    clear: both
+	margin: 16px 0;
+	height: 1px;
+	background: #d3d3d3;
+	border: none;
+	width: 100%;
+	clear: both
 }
 
 h1,
@@ -25,15 +25,15 @@ h3,
 h4,
 h5,
 h6 {
-    font-weight: 700;
-    text-transform: uppercase;
-    line-height: 1.4;
-    margin-bottom: 8px;
-    letter-spacing: 1.5px;
+	font-weight: 700;
+	text-transform: uppercase;
+	line-height: 1.4;
+	margin-bottom: 8px;
+	letter-spacing: 1.5px;
 }
 
 h5,
 h6 {
-    letter-spacing: 1px;
+	letter-spacing: 1px;
 }
 

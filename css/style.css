@@ -991,27 +991,6 @@ hr {
   clear: both;
 }
 
-h1, h2, h3 {
-  font-family: "PT Serif",serif;
-  font-weight: 700;
-  text-align: center;
-}
-
-h2 {
-  font-size: 1.6em;
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
-}
-
-h3 {
-  font-size: 1.1em;
-  font-family: "PT Sans",sans-serif;
-  font-weight: 700;
-  margin-bottom: 1em;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-}
-
 a.button {
   background: #e33f0c;
   text-align: center;

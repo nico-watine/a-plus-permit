@@ -991,14 +991,6 @@ hr {
   clear: both;
 }
 
-a, a:visited {
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
 h1, h2, h3 {
   font-family: "PT Serif",serif;
   font-weight: 700;

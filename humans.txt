@@ -27,13 +27,12 @@ Project Lead:
 Standards: 
   HTML5
   CSS3 pre-processed via SASS
-
-Components: 
-  insert_components
+  
 
 Software: 
   Sublime Text 3
   CodeKit 3
+  Sketch App
 
 
 

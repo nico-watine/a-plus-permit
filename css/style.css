@@ -923,6 +923,10 @@ p {
   padding: 16px 0;
 }
 
+.paddingY-32 {
+  padding: 32px 0;
+}
+
 .margin-0 {
   margin: 0;
 }
@@ -933,6 +937,10 @@ p {
 
 .marginY-16 {
   margin: 16px 0;
+}
+
+.marginY-32 {
+  margin: 32px 0;
 }
 
 img {
@@ -992,21 +1000,6 @@ footer .colophon a span {
 
 footer .colophon a:hover {
   text-decoration: underline;
-}
-
-.ladder-slogan {
-  background: #fff url("/img/ceiling-enlarged.jpg") center/100% no-repeat;
-  width: 100%;
-  color: white;
-  text-align: center;
-  padding: 10% 0 15% 0;
-}
-
-.parallax-hero {
-  background: #fff url("/img/page-hero.jpg") center/100% no-repeat;
-  width: 100%;
-  text-align: center;
-  padding: 10% 0 15% 0;
 }
 
 .ladder {

@@ -920,6 +920,12 @@ hr {
   clear: both;
 }
 
+body {
+  background: #fefefe;
+  padding: 0;
+  margin: 0;
+}
+
 .ladder-slogan {
   background: #fff url("/img/ceiling-enlarged.jpg") center/100% no-repeat;
   width: 100%;

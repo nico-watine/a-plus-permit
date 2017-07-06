@@ -982,15 +982,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-hr {
-  margin: 16px 0;
-  height: 1px;
-  background: #d3d3d3;
-  border: none;
-  width: 100%;
-  clear: both;
-}
-
 h1,
 h2,
 h3,
@@ -1015,6 +1006,15 @@ img {
   max-width: 100%;
   height: auto;
   -ms-interpolation-mode: bicubic;
+}
+
+hr {
+  margin: 16px 0;
+  height: 1px;
+  background: #d3d3d3;
+  border: none;
+  width: 100%;
+  clear: both;
 }
 
 .ladder-slogan {

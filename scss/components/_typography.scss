@@ -1,13 +1,17 @@
 // Google Font imports ::
 @import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700');
 
-html {
-    font: 100%/1.5em "PT Sans",sans-serif
-}
+// html {
+//     font: 100%/1.5em "PT Sans",sans-serif
+// }
+
+// body {
+//     font-size: 1em;
+//     color: #353738
+// }
 
 body {
-    font-size: 1em;
-    color: #353738
+    font-family: 'PT Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 hr {

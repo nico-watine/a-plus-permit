@@ -426,19 +426,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/blocks\/_skeleton.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/scss\/css\/_skeleton.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/scss\/blocks\/_style-2.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -474,6 +461,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/css\/_misc-elements.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/components\/_skeleton.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/css\/_skeleton.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

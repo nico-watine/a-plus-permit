@@ -1000,6 +1000,11 @@ h6 {
   letter-spacing: 1px;
 }
 
+p {
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
+
 img {
   display: inline-block;
   vertical-align: middle;

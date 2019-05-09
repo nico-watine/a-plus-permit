@@ -1,24 +1,19 @@
 {
-  "name": "a-plus-permit",
-  "version": "1.0.0",
-  "description": "www.apluspermit.com site repo",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://nico-watine@github.com/nico-watine/a-plus-permit.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nico-watine/a-plus-permit/issues"
-  },
-  "homepage": "https://github.com/nico-watine/a-plus-permit#readme",
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-cssnano": "^2.1.2",
-    "gulp-uncss": "^1.0.6"
-  }
+	"name": "a-plus-permit",
+	"description": "www.apluspermit.com site repo",
+	"scripts": {
+		"build": "gulp"
+	},
+	"author": "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://nico-watine@github.com/nico-watine/a-plus-permit.git"
+	},
+	"homepage": "https://github.com/nico-watine/a-plus-permit#readme",
+	"devDependencies": {
+		"gulp": "^3.9.1",
+		"gulp-cssnano": "^2.1.2",
+		"gulp-uncss": "^1.0.6"
+	}
 }

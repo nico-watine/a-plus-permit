@@ -3,7 +3,7 @@
 // normalize.css (v8.0.1)
 @import "../bower_components/normalize-css/normalize";
 
-// skeleton.css
+// skeleton.css framework
 @import 'components/_skeleton.scss';
 
 // Typography
@@ -12,15 +12,15 @@
 // Components
 @import 'components/_utilities.scss';
 
-// SITE BLOCKS
+// Site Blocks
 @import 'blocks/_body.scss';
 
 // Pages
 @import 'pages/index/_index.scss';
 
-// TO BE ORGANIZED/MODULARIZED ::
+// Organize this:
 @import 'organize/_style-2.scss';
 @import 'organize/_styles.scss';
 
-// MODAL "REVEAL"
+// Modal Reveal
 @import 'blocks/_modal.scss';

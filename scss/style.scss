@@ -1,27 +1,26 @@
+@import '_var.scss';
 
+// normalize.css (v7)
+@import '_normalize.scss';
 
-// NORMALIZE V7
-@import "_normalize.scss";
+// skeleton.css
+@import 'components/_skeleton.scss';
 
-// SKELETON.CSS BASE
-@import "components/_skeleton.scss";
+// Typography
+@import 'components/_typography.scss';
 
-// TYPOGRAPHY
-@import "components/_typography.scss";
-
-// OTHER DOM ELEMENTS
-@import "components/_metrics.scss";
-@import "components/_misc-elements.scss";
+// Components
+@import 'components/_utilities.scss';
 
 // SITE BLOCKS
-@import "blocks/_body.scss";
+@import 'blocks/_body.scss';
 
-// PAGE SPECIFICS
-@import "pages/index/_index.scss";
+// Pages
+@import 'pages/index/_index.scss';
 
 // TO BE ORGANIZED/MODULARIZED ::
-@import "organize/_style-2.scss";
-@import "organize/_styles.scss";
+@import 'organize/_style-2.scss';
+@import 'organize/_styles.scss';
 
 // MODAL "REVEAL"
-@import "blocks/_modal.scss";
+@import 'blocks/_modal.scss';

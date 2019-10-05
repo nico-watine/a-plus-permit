@@ -541,32 +541,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/scss/blocks/_body.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/css/_body.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/scss/blocks/_modal.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/css/_modal.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/scss/components/_skeleton.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -706,6 +680,32 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/elements/css/_components.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/elements/page-blocks/_body.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/css/_body.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/elements/page-blocks/_modal.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/css/_modal.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

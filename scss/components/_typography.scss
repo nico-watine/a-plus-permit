@@ -1,69 +1,42 @@
-// Google Font imports ::
-@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700|PT+Serif:400,700');
-
-html {
-    font: 100%/1.5em "PT Sans",sans-serif
-}
+@import 'typography/_fonts.scss';
 
 body {
-    font-size: 1em;
-    color: #353738
+	font-family: 'PT Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	line-height: 1.5;
+	color: #353738;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
-hr {
-    margin: 1em 0;
-    height: 1px;
-    background: #d3d3d3;
-    border: none;
-    width: 100%;
-    clear: both
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: 700;
+	text-transform: uppercase;
+	line-height: 1.4;
+	margin: 0 0 8px;
+	letter-spacing: 1.5px;
 }
 
-a,a:visited {
-    text-decoration: none
+h5,
+h6 {
+	letter-spacing: 1px;
 }
 
-a:hover {
-    text-decoration: underline
+p {
+	line-height: 1.6;
+	margin: 0 0 16px;
 }
 
-h1,h2,h3 {
-    font-family: "PT Serif",serif;
-    font-weight: 700;
-    text-align: center
+.text-center {
+	text-align: center;
 }
 
-h2 {
-    font-size: 1.6em;
-    margin-top: 1.5em;
-    margin-bottom: 1.5em
+.text-right {
+	text-align: right;
 }
 
-h3 {
-    font-size: 1.1em;
-    font-family: "PT Sans",sans-serif;
-    font-weight: 700;
-    margin-bottom: 1em;
-    text-transform: uppercase;
-    letter-spacing: 0.1em
-}
-
-a.button {
-    background: #e33f0c;
-    text-align: center;
-    padding: 0.5em 1em;
-    color: white;
-    font-weight: bold;
-    text-decoration: none;
-    box-shadow: 0 0.2em 0 #ab3009;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    -webkit-transition: background 0.2s ease-out;
-    -moz-transition: background 0.2s ease-out;
-    -o-transition: background 0.2s ease-out;
-    transition: background 0.2s ease-out
-}
-
-a.button:hover {
-    background: #ab3009
-}

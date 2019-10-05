@@ -1,0 +1,76 @@
+// ---------------------------------------
+// |            Media Queries            |
+// ---------------------------------------
+$medium: "only screen and (min-width : 40em)";
+$large: "only screen and (min-width : 64em)";
+
+// -------------------------------------------
+// |            Typography Styles            |
+// -------------------------------------------
+$p: 16px;
+
+// Font Sizes (Major Third - 1.250) ---------------------------------- //
+$h1: 39px;
+$h2: 31px;
+$h3: 25px;
+$h4: 21px;
+$h5: 16px;
+$h6: 14px;
+
+// Font Sizes (Perfect Fourth - 1.333) ---------------------------------- //
+$h1-medium: 50px;
+$h2-medium: 38px;
+$h3-medium: 28px;
+$h4-medium: 21px;
+$h5-medium: 16px;
+$h6-medium: 14px;
+
+$h1-cursive: 60px;
+$h2-cursive: 50px;
+$h3-cursive: 38px;
+$h4-cursive: 28px;
+
+// ---------------------------------------------------------------------- //
+// .Cursive fonts
+
+$h1-cursive-medium: 70px;
+$h2-cursive-medium: 50px;
+$h3-cursive-medium: 38px;
+$h4-cursive-medium: 28px;
+
+$h1-cursive-large: 110px;
+$h2-cursive-large: 68px;
+$h3-cursive-large: 42px;
+$h4-cursive-large: 26px;
+
+
+// Font Families -------------------------------------------------------- //
+$cursive-font-family: 'Parisienne', cursive;
+
+
+
+
+// --------------------------------
+// |            Colors            |
+// --------------------------------
+
+// Hexadecimal Color Variables ------------------------------------------- //
+$dark-blue: #697b99;
+$body: #f4f2f2;
+$white: #fefefe;
+$black: #0a0a0a;
+$yellow: #fffeb3;
+
+
+
+// ---------------------------------------
+// |            Visual Styles            |
+// ---------------------------------------
+
+// box-shadow Variables -------------------------------------------------- //
+$z-1: 0 1px 4px 0 rgba(0,0,0,.37);
+$z-2: 0 2px 2px 0 rgba(0,0,0,.20), 0 6px 10px 0 rgba(0,0,0,.30);
+$z-3: 0 11px 7px 0 rgba(0,0,0,.19), 0 13px 25px 0 rgba(0,0,0,.30);
+$z-4: 0 14px 12px 0 rgba(0,0,0,.17), 0 20px 40px 0 rgba(0,0,0,.30);
+$z-5: 0 17px 17px 0 rgba(0,0,0,.15), 0 27px 55px 0 rgba(0,0,0,.30);
+

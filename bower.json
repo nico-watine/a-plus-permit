@@ -1,44 +1,20 @@
 {
-  "name": "my-new-project",
+  "name": "a-plus-permit",
   "authors": [
-    "John Doe <john@doe.com> (http://johndoe.com)"
+    "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
   ],
-  "description": "CodeKit automatically generated this file. You should customize it according to: https://github.com/bower/spec/blob/master/json.md",
-  "main": [
-    "index.html",
-    "main.js"
-  ],
-  "moduleType": [
-    "amd",
-    "es6",
-    "globals",
-    "node",
-    "yui"
-  ],
-  "keywords": [
-    "none"
-  ],
+  "description": "www.apluspermit.com site repo",
   "license": "MIT",
-  "homepage": "https://google.com",
+  "homepage": "http://apluspermit.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/foo/bar.git"
+    "url": "https://nico-watine@github.com/nico-watine/a-plus-permit.git"
   },
   "ignore": [
-    "**/.*",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ],
-  "private": true,
-  "devDependencies": {
-    "normalize-css": "^5.0.0"
-  },
-  "resolutions": {
-    "normalize-css": "^7.0.0"
-  },
   "dependencies": {
-    "normalize-css": "^7.0.0"
+    "normalize-css": "^8.0.1"
   }
 }

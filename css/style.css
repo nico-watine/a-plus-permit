@@ -1,19 +1,23 @@
 @charset "UTF-8";
-/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
-/* Document
-	 ========================================================================== */
-/**
- * 1. Correct the line height in all browsers.
- * 2. Prevent adjustments of font size after orientation changes in iOS.
- */
 @import url("https://fonts.googleapis.com/css?family=PT+Sans:400,700");
 html {
+  box-sizing: border-box;
+  /* [css-tricks.com] https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
+  font-size: 100%;
   line-height: 1.15;
-  /* 1 */
+  /* [normalize] Correct the line height in all browsers */
   -webkit-text-size-adjust: 100%;
-  /* 2 */
+  /* [normalize] Prevent adjustments of font size after orientation changes in iOS */
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  /* [css-tricks.com] https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
+}
+
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Sections
 	 ========================================================================== */
 /**

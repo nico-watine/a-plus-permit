@@ -632,19 +632,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/resets/3-headings/_headings.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/elements/resets/css/_headings.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/scss/elements/resets/_media-resets.scss": {
 		"aP": 0,
 		"bl": 0,

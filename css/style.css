@@ -2379,42 +2379,6 @@ body {
 	</div>
 
 	*/
-.ladder-slogan {
-  background: #fff url("/img/ceiling-enlarged.jpg") center/100% no-repeat;
-  width: 100%;
-  color: white;
-  text-align: center;
-  padding: 10% 0 15% 0;
-}
-
-.parallax-hero {
-  background: #fff url("/img/page-hero.jpg") center/100% no-repeat;
-  width: 100%;
-  text-align: center;
-  padding: 10% 0 15% 0;
-}
-
-footer .colophon {
-  font-size: 10px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-
-footer .colophon a {
-  font-size: 10px;
-  border-bottom: 0;
-  margin: 0;
-  text-decoration: none;
-}
-
-footer .colophon a span {
-  text-decoration: underline;
-}
-
-footer .colophon a:hover {
-  text-decoration: underline;
-}
-
 /*
 * Skeleton V1.2
 * Copyright 2011, Dave Gamache
@@ -2851,6 +2815,42 @@ footer .colophon a:hover {
   visibility: hidden;
   width: 0;
   height: 0;
+}
+
+.ladder-slogan {
+  background: #fff url("/img/ceiling-enlarged.jpg") center/100% no-repeat;
+  width: 100%;
+  color: white;
+  text-align: center;
+  padding: 10% 0 15% 0;
+}
+
+.parallax-hero {
+  background: #fff url("/img/page-hero.jpg") center/100% no-repeat;
+  width: 100%;
+  text-align: center;
+  padding: 10% 0 15% 0;
+}
+
+footer .colophon {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+footer .colophon a {
+  font-size: 10px;
+  border-bottom: 0;
+  margin: 0;
+  text-decoration: none;
+}
+
+footer .colophon a span {
+  text-decoration: underline;
+}
+
+footer .colophon a:hover {
+  text-decoration: underline;
 }
 
 body {

@@ -7,6 +7,12 @@
 // normalize.css (v8.0.1)
 @import '../bower_components/normalize-css/normalize';
 
+// Elements
+@import 'elements/_elements.scss';
+
+// Pages
+@import 'pages/_pages.scss';
+
 // skeleton.css framework
 @import 'components/_skeleton.scss';
 
@@ -18,9 +24,6 @@
 
 // Site Blocks
 @import 'blocks/_body.scss';
-
-// Pages
-@import 'pages/_pages.scss';
 
 // Organize this:
 @import 'organize/_style-2.scss';

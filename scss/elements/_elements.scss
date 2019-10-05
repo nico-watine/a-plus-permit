@@ -1,4 +1,4 @@
-@import 'resets/_resets.scss';
+// @import 'resets/_resets.scss';
 @import 'typography/_typography.scss';
 @import 'utilities/_utilities.scss';
 @import 'page-blocks/_page-blocks.scss';
@@ -11,4 +11,12 @@ hr {
 	border: none;
 	width: 100%;
 	clear: both
+}
+
+img {
+	display: inline-block;
+	vertical-align: middle;
+	max-width: 100%;
+	height: auto;
+	-ms-interpolation-mode: bicubic;
 }

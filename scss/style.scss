@@ -1,7 +1,7 @@
 @import 'var/_var.scss';
 
 // normalize.css (v8.0.1)
-@import "../bower_components/normalize-css/normalize";
+@import '../bower_components/normalize-css/normalize';
 
 // skeleton.css framework
 @import 'components/_skeleton.scss';
@@ -16,7 +16,7 @@
 @import 'blocks/_body.scss';
 
 // Pages
-@import 'pages/index/_index.scss';
+@import 'pages/_pages.scss';
 
 // Organize this:
 @import 'organize/_style-2.scss';

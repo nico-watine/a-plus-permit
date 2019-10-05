@@ -671,19 +671,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/resets/normalize/_1-document.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/elements/resets/css/_1-document.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/scss/elements/resets/normalize/_1-typography-normalize.scss": {
 		"aP": 0,
 		"bl": 0,

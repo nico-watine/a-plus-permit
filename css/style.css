@@ -2347,6 +2347,15 @@ body {
   height: 0;
 }
 
+hr {
+  margin: 16px 0;
+  height: 1px;
+  background: #d3d3d3;
+  border: none;
+  width: 100%;
+  clear: both;
+}
+
 .ladder-slogan {
   background: #fff url("/img/ceiling-enlarged.jpg") center/100% no-repeat;
   width: 100%;
@@ -2973,14 +2982,6 @@ footer .colophon a:hover {
 .my-40 {
   margin-top: 40px !important;
   margin-bottom: 40px !important;
-}
-
-img {
-  display: inline-block;
-  vertical-align: middle;
-  max-width: 100%;
-  height: auto;
-  -ms-interpolation-mode: bicubic;
 }
 
 hr {

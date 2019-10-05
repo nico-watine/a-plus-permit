@@ -1,12 +1,12 @@
-@import '1-html/_html.scss';
-@import '2-body/_body.scss';
+// @import '1-html/_html.scss';
+// @import '2-body/_body.scss';
 
-@import 'normalize/_normalize.scss';
+// @import 'normalize/_normalize.scss';
 @import '_media-resets.scss';
-@import '_text-elements-resets.scss';
+// @import '_text-elements-resets.scss';
 
 
-@import '3-headings/_headings.scss';
+// @import '3-headings/_headings.scss';
 
 hr {
 	box-sizing: content-box; /* [normalize] Add the correct box sizing in Firefox. */

@@ -1,15 +1,17 @@
 a {
-	line-height: inherit;
-	color: #1779ba;
+	color: #1779ba; /* [Foundation] opinionated color alternative */
+	background-color: transparent; /* [normalize] Remove the gray background on active links in IE 10. */
 	text-decoration: none;
-	cursor: pointer;
+	line-height: inherit;
 }
 
 a:hover,
-a:focus {
-	color: #1468a0;
+a:focus,
+a:active {
+	text-decoration: underline;
+	// color: #1468a0; [Foundation] opinionated color alternative
 }
 
 a img {
-	border: 0;
+	border: 0; /* remove border from appearing around img element within a link */
 }

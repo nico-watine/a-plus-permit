@@ -152,6 +152,89 @@ pre code {
   background: none;
 }
 
+body {
+  font-family: 'PT Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  line-height: 1.5;
+  color: #353738;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1.4;
+  margin: 0 0 8px;
+  letter-spacing: 1.5px;
+}
+
+h5,
+h6 {
+  letter-spacing: 1px;
+}
+
+h1,
+.h1 {
+  font-size: 39px;
+}
+
+h2,
+.h2 {
+  font-size: 31px;
+}
+
+h3,
+.h3 {
+  font-size: 25px;
+}
+
+h4,
+.h4 {
+  font-size: 21px;
+}
+
+h5,
+.h5 {
+  font-size: 16px;
+}
+
+h6,
+.h6 {
+  font-size: 14px;
+}
+
+@media only screen and (min-width: 40em) {
+  h1,
+  .h1 {
+    font-size: 50px;
+  }
+  h2,
+  .h2 {
+    font-size: 38px;
+  }
+  h3,
+  .h3 {
+    font-size: 28px;
+  }
+  h4,
+  .h4 {
+    font-size: 21px;
+  }
+}
+
+p {
+  margin-bottom: 1rem;
+  font-size: inherit;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+}
+
 .button {
   display: inline-block;
   vertical-align: middle;
@@ -417,89 +500,6 @@ ol.no-bullet {
   text-shadow: none !important;
   background-color: transparent !important;
   border: 0 !important;
-}
-
-body {
-  font-family: 'PT Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: normal;
-  line-height: 1.5;
-  color: #353738;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-weight: 700;
-  text-transform: uppercase;
-  line-height: 1.4;
-  margin: 0 0 8px;
-  letter-spacing: 1.5px;
-}
-
-h5,
-h6 {
-  letter-spacing: 1px;
-}
-
-h1,
-.h1 {
-  font-size: 39px;
-}
-
-h2,
-.h2 {
-  font-size: 31px;
-}
-
-h3,
-.h3 {
-  font-size: 25px;
-}
-
-h4,
-.h4 {
-  font-size: 21px;
-}
-
-h5,
-.h5 {
-  font-size: 16px;
-}
-
-h6,
-.h6 {
-  font-size: 14px;
-}
-
-@media only screen and (min-width: 40em) {
-  h1,
-  .h1 {
-    font-size: 50px;
-  }
-  h2,
-  .h2 {
-    font-size: 38px;
-  }
-  h3,
-  .h3 {
-    font-size: 28px;
-  }
-  h4,
-  .h4 {
-    font-size: 21px;
-  }
-}
-
-p {
-  margin-bottom: 1rem;
-  font-size: inherit;
-  line-height: 1.6;
-  text-rendering: optimizeLegibility;
 }
 
 .border-radius-0 {

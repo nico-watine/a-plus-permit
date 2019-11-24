@@ -1,16 +1,3 @@
-@import '_buttons.scss';
-@import '_font-face.scss';
-@import '_font-family.scss';
-@import '_font-weight.scss';
-@import '_headings.scss';
-@import '_links.scss';
-@import '_lists.scss';
-@import '_text-alignment.scss';
-@import '_text-color.scss';
-@import '_text-styles.scss';
-@import '_text-transform.scss';
-@import '_text-visibility.scss';
-
 body {
 	font-family: 'PT Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-weight: normal;
@@ -97,3 +84,16 @@ p {
 	line-height: 1.6;
 	text-rendering: optimizeLegibility;
 }
+
+@import '_buttons.scss';
+@import '_font-face.scss';
+@import '_font-family.scss';
+@import '_font-weight.scss';
+@import '_headings.scss';
+@import '_links.scss';
+@import '_lists.scss';
+@import '_text-alignment.scss';
+@import '_text-color.scss';
+@import '_text-styles.scss';
+@import '_text-transform.scss';
+@import '_text-visibility.scss';

@@ -2,8 +2,12 @@
 // |            typography Variables            |
 // ----------------------------------------------
 $global-font-size: 100% !default;
-$body-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-$header-font-family: $body-font-family;
+$p-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$h-font-family: $p-font-family;
+
+
+// Functions import necessary for rem-calc(X) usage:
+@import '../functions/_functions.scss';
 
 // Font Sizes ------------------------------------------------ //
 $p: 16px;
@@ -23,6 +27,3 @@ $h3-medium: 28px;
 $h4-medium: 21px;
 $h5-medium: 16px;
 $h6-medium: 14px;
-
-
-// Font Families --------------------------------------------- //

@@ -319,21 +319,14 @@ kbd {
 a {
   color: #1779ba;
   /* [Foundation] opinionated color alternative */
-  background-color: transparent;
-  /* [normalize] Remove the gray background on active links in IE 10. */
   text-decoration: none;
-  line-height: inherit;
 }
 
 a:hover,
 a:focus,
 a:active {
   text-decoration: underline;
-}
-
-a img {
-  border: 0;
-  /* remove border from appearing around img element within a link */
+  color: #1468a0;
 }
 
 ul,

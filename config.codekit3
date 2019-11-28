@@ -1061,19 +1061,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/organize/_styles.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/css/_styles.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/scss/pages/_pages.scss": {
 		"aP": 0,
 		"bl": 0,

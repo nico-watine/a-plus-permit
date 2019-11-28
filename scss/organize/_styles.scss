@@ -31,24 +31,3 @@ footer {
 .social-facebook {
     color: #3B5998
 }
-
-@media only screen and (min-width: 767px) {
-
-    body {
-        font-size: 1.125em;
-        line-height: 1.7em
-    }
-
-    div.band .columns {
-        padding-top: 2em;
-        padding-bottom: 2em
-    }
-
-    header.band h1 {
-        font-size: 3.25em
-    }
-
-    a.button {
-        padding: 0.75em 1.5
-    }
-}

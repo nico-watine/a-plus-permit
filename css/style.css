@@ -153,7 +153,7 @@ pre code {
 }
 
 body {
-  font-family: 'PT Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
   color: #353738;
@@ -175,46 +175,14 @@ h6,
 .h6 {
   font-family: "PT Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: normal;
-  font-weight: normal;
-  color: inherit;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #0a0a0a;
   text-rendering: optimizeLegibility;
   line-height: 1.4;
   margin-top: 0;
   margin-bottom: .5rem;
-}
-
-h1 small,
-.h1 small,
-h2 small,
-.h2 small,
-h3 small,
-.h3 small,
-h4 small,
-.h4 small,
-h5 small,
-.h5 small,
-h6 small,
-.h6 small {
-  line-height: 0;
-  color: #8a8a8a;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-weight: 700;
-  text-transform: uppercase;
-  line-height: 1.4;
-  margin: 0 0 8px;
-  letter-spacing: 1.5px;
-}
-
-h5,
-h6 {
-  letter-spacing: 1px;
+  letter-spacing: 0.075rem;
 }
 
 h1,
@@ -267,8 +235,8 @@ h6,
 }
 
 p {
-  margin-bottom: 1rem;
-  font-size: inherit;
+  margin-bottom: 1.125rem;
+  font-size: 1.125rem;
   line-height: 1.6;
   text-rendering: optimizeLegibility;
 }
@@ -380,6 +348,10 @@ a:active {
 
 .text-white-50 {
   color: rgba(255, 255, 255, 0.5) !important;
+}
+
+strong {
+  color: #0a0a0a;
 }
 
 .text-truncate {

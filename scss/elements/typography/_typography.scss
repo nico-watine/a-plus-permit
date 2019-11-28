@@ -1,5 +1,5 @@
 body {
-	font-family: 'PT Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: $p-font-family;
 	font-weight: normal;
 	line-height: 1.5;
 	color: #353738;
@@ -10,8 +10,8 @@ body {
 @import '_headings.scss';
 
 p {
-	margin-bottom: 1rem;
-	font-size: inherit;
+	margin-bottom: rem-calc(18);
+	font-size: rem-calc(18);
 	line-height: 1.6;
 	text-rendering: optimizeLegibility;
 }

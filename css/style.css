@@ -2011,6 +2011,13 @@ strong {
   padding: 10% 0 15% 0;
 }
 
+.ladder {
+  text-align: center;
+  color: #c33;
+  font-size: 33px;
+  line-height: 33px;
+}
+
 footer .colophon {
   font-size: 10px;
   text-transform: uppercase;
@@ -2030,11 +2037,4 @@ footer .colophon a span {
 
 footer .colophon a:hover {
   text-decoration: underline;
-}
-
-.ladder {
-  text-align: center;
-  color: #c33;
-  font-size: 33px;
-  line-height: 33px;
 }

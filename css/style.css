@@ -235,6 +235,7 @@ h6,
 }
 
 p {
+  margin-top: 0;
   margin-bottom: 1.125rem;
   font-size: 1.125rem;
   line-height: 1.6;

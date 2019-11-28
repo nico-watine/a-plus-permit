@@ -10,6 +10,7 @@ body {
 @import '_headings.scss';
 
 p {
+	margin-top: 0;
 	margin-bottom: rem-calc(18);
 	font-size: rem-calc(18);
 	line-height: 1.6;

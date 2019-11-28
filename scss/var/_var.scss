@@ -1,0 +1,9 @@
+@import 'colors/_var-colors.scss';
+@import 'typography/_var-typography.scss';
+
+// Functions import necessary for rem-calc(X) usage:
+@import '../functions/_functions.scss';
+// -------------------------------------------------
+
+@import 'media-queries/_var-media-queries.scss';
+@import 'box-shadow/_var-box-shadow.scss';

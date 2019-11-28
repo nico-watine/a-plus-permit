@@ -1,9 +1,21 @@
+.ladder-slogan {
+	background: #fff url('/img/ceiling-enlarged.jpg') center/100% no-repeat;
+	width: 100%;
+	color: white;
+	text-align: center;
+	padding: 10% 0 15% 0;
+}
 
-// HEADER STYLES
-@import "_header.scss";
+.parallax-hero {
+	background: #fff url('/img/page-hero.jpg') center/100% no-repeat;
+	width: 100%;
+	text-align: center;
+	padding: 10% 0 15% 0;
+}
 
-// FOOTER STYLES
-@import "_footer.scss";
-
-// SECTION, ETC...
-@import "_main.scss";
+.ladder {
+	text-align: center;
+	color: #c33;
+	font-size: 33px;
+	line-height: 33px;
+}

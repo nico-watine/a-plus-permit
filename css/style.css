@@ -235,31 +235,6 @@ p {
   text-rendering: optimizeLegibility;
 }
 
-.button {
-  display: inline-block;
-  vertical-align: middle;
-  margin: 0 0 1rem 0;
-  padding: .85em 1em;
-  border: 1px solid transparent;
-  border-radius: 0;
-  -webkit-transition: background-color .25s ease-out, color .25s ease-out;
-  transition: background-color .25s ease-out, color .25s ease-out;
-  font-family: inherit;
-  font-size: .9rem;
-  -webkit-appearance: none;
-  line-height: 1;
-  text-align: center;
-  cursor: pointer;
-  background-color: #1779ba;
-  color: #fefefe;
-}
-
-.button:hover,
-.button:focus {
-  background-color: #14679e;
-  color: #fefefe;
-}
-
 .text-monospace {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace !important;
 }
@@ -359,50 +334,6 @@ a:focus,
 a:active {
   text-decoration: underline;
   color: #1468a0;
-}
-
-ul,
-ol,
-dl {
-  margin-bottom: 1rem;
-  list-style-position: outside;
-  line-height: 1.6;
-}
-
-li {
-  font-size: inherit;
-}
-
-ul {
-  margin-left: 1.25rem;
-  list-style-type: disc;
-}
-
-ol {
-  margin-left: 1.25rem;
-}
-
-ul ul,
-ol ul,
-ul ol,
-ol ol {
-  margin-left: 1.25rem;
-  margin-bottom: 0;
-}
-
-dl {
-  margin-bottom: 1rem;
-}
-
-dl dt {
-  margin-bottom: .3rem;
-  font-weight: bold;
-}
-
-ul.no-bullet,
-ol.no-bullet {
-  margin-left: 0;
-  list-style: none;
 }
 
 .text-left {

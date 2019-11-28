@@ -162,6 +162,44 @@ body {
 }
 
 h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+  font-family: "PT Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  color: inherit;
+  text-rendering: optimizeLegibility;
+  line-height: 1.4;
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+
+h1 small,
+.h1 small,
+h2 small,
+.h2 small,
+h3 small,
+.h3 small,
+h4 small,
+.h4 small,
+h5 small,
+.h5 small,
+h6 small,
+.h6 small {
+  line-height: 0;
+  color: #8a8a8a;
+}
+
+h1,
 h2,
 h3,
 h4,
@@ -283,44 +321,6 @@ p {
 .font-weight-900,
 .font-weight-black {
   font-weight: 900 !important;
-}
-
-h1,
-.h1,
-h2,
-.h2,
-h3,
-.h3,
-h4,
-.h4,
-h5,
-.h5,
-h6,
-.h6 {
-  font-family: "PT Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  color: inherit;
-  text-rendering: optimizeLegibility;
-  line-height: 1.4;
-  margin-top: 0;
-  margin-bottom: .5rem;
-}
-
-h1 small,
-.h1 small,
-h2 small,
-.h2 small,
-h3 small,
-.h3 small,
-h4 small,
-.h4 small,
-h5 small,
-.h5 small,
-h6 small,
-.h6 small {
-  line-height: 0;
-  color: #8a8a8a;
 }
 
 a {

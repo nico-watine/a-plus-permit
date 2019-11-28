@@ -9,3 +9,13 @@ a:active {
 	text-decoration: underline;
 	color: #1468a0; // [Foundation] opinionated color alternative
 }
+
+// Original Styles Below:
+a:link,
+a:visited,
+a:hover {
+	text-decoration: none;
+	border-bottom: 3px solid #c33;
+	font-size: 27px;
+	color: #333;
+}

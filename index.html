@@ -186,24 +186,12 @@
 
 <!-- SCRIPTS -->
 <script src="http://code.jquery.com/jquery-1.6.min.js"></script>
-<script type="text/javascript" src="js/skrollr.js"></script>
-<script>
-	function skrollrActivate(pageWidth) {
-		if (pageWidth.matches) {
-			skrollr.init({
-				smoothScrolling: true
-			});
-		}
-	}
-	var pageWidth = window.matchMedia("(min-width: 1025px)")
-	skrollrActivate(pageWidth)
-	pageWidth.addListener(skrollrActivate)
-</script>
-<!-- <script type="text/javascript">
-	skrollr.init({
-		smoothScrolling: true
-	});
-</script> -->
 <script src="js/jquery.reveal.js"></script>
+<script>
+	if (window.matchMedia("(min-width: 1025px)").matches){
+		document.write('<script type="text/javascript" src="/js/skrollr.js"><\/script>');
+		document.write('<script>skrollr.init({smoothScrolling: true});<\/script>');
+	};
+</script>
 </body>
 </html>

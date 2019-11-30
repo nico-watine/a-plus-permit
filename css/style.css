@@ -2025,30 +2025,30 @@ footer .colophon a:hover {
           align-items: center;
 }
 
-.parallax-background {
-  background: #fff url("/img/index/ladder-banner/ladder-bg_parallax.jpg") center/100% no-repeat;
-}
-
-.static-background {
+.ladder-banner .inner.static-background {
   background: #fff url("/img/index/ladder-banner/ladder-bg_small.jpg") -80px top/cover no-repeat;
 }
 
 @media only screen and (min-width: 540px) {
-  .static-background {
+  .ladder-banner .inner.static-background {
     background-position: center;
   }
 }
 
 @media only screen and (min-width: 640px) {
-  .static-background {
+  .ladder-banner .inner.static-background {
     background: #fff url("/img/index/ladder-banner/ladder-bg_medium.jpg") center/cover no-repeat;
   }
 }
 
 @media only screen and (min-width: 1025px) {
-  .static-background {
+  .ladder-banner .inner.static-background {
     background: none;
   }
+}
+
+.ladder-banner.parallax-background {
+  background: #fff url("/img/index/ladder-banner/ladder-bg_parallax.jpg") center/100% no-repeat;
 }
 
 .parallax-hero {

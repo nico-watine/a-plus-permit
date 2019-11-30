@@ -2026,7 +2026,8 @@ footer .colophon a:hover {
 }
 
 .ladder-banner .inner.static-background {
-  background: #fff url("/img/index/ladder-banner/ladder-bg_small.jpg") -80px top/cover no-repeat;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(51, 51, 51, 0.6)), to(rgba(51, 51, 51, 0.6))), url("/img/index/ladder-banner/ladder-bg_small.jpg") -80px top/cover no-repeat;
+  background: linear-gradient(rgba(51, 51, 51, 0.6), rgba(51, 51, 51, 0.6)), url("/img/index/ladder-banner/ladder-bg_small.jpg") -80px top/cover no-repeat;
 }
 
 @media only screen and (min-width: 540px) {
@@ -2037,7 +2038,8 @@ footer .colophon a:hover {
 
 @media only screen and (min-width: 640px) {
   .ladder-banner .inner.static-background {
-    background: #fff url("/img/index/ladder-banner/ladder-bg_medium.jpg") center/cover no-repeat;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(51, 51, 51, 0.6)), to(rgba(51, 51, 51, 0.6))), url("/img/index/ladder-banner/ladder-bg_medium.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(51, 51, 51, 0.6), rgba(51, 51, 51, 0.6)), url("/img/index/ladder-banner/ladder-bg_medium.jpg") center/cover no-repeat;
   }
 }
 

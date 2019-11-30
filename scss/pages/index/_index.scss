@@ -2,8 +2,6 @@ $minWidth-1025: 'only screen and (min-width : 1025px)';
 
 .ladder-banner {
 	height: 400px;
-	justify-content: center;
-	align-items: center;
 }
 
 .parallax-background {
@@ -13,7 +11,11 @@ $minWidth-1025: 'only screen and (min-width : 1025px)';
 }
 
 .static-background {
+	height: 100%;
+	justify-content: center;
+	align-items: center;
 	background: #fff url('/img/ceiling-enlarged.jpg') center/100% no-repeat;
+
 	@media #{$minWidth-1025} {
 		background: none;
 	}

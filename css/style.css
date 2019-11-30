@@ -2013,12 +2013,34 @@ footer .colophon a:hover {
   height: 0;
 }
 
-.ladder-slogan {
-  background: #fff url("/img/ceiling-enlarged.jpg") center/100% no-repeat;
+.ladder-banner {
   width: 100%;
   color: white;
   text-align: center;
+}
+
+.ladder-banner .padding-wrapper {
   padding: 12% 0 12% 0;
+}
+
+.parallax-background {
+  background: none;
+}
+
+@media only screen and (min-width: 1025px) {
+  .parallax-background {
+    background: #fff url("/img/ceiling-enlarged.jpg") center/100% no-repeat;
+  }
+}
+
+.static-background {
+  background: #fff url("/img/ceiling-enlarged.jpg") center/100% no-repeat;
+}
+
+@media only screen and (min-width: 1025px) {
+  .static-background {
+    background: none;
+  }
 }
 
 .parallax-hero {

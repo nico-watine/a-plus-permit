@@ -1,10 +1,27 @@
-.ladder-slogan {
-	// background: #fff url("/img/ceiling.jpg") center/100% no-repeat;
-	background: #fff url('/img/ceiling-enlarged.jpg') center/100% no-repeat;
+$minWidth-1025: 'only screen and (min-width : 1025px)';
+
+.ladder-banner {
 	width: 100%;
 	color: white;
 	text-align: center;
-	padding: 12% 0 12% 0;
+
+	.padding-wrapper {
+		padding: 12% 0 12% 0;
+	}
+}
+
+.parallax-background {
+	background: none;
+	@media #{$minWidth-1025} {
+		background: #fff url('/img/ceiling-enlarged.jpg') center/100% no-repeat;
+	}
+}
+
+.static-background {
+	background: #fff url('/img/ceiling-enlarged.jpg') center/100% no-repeat;
+	@media #{$minWidth-1025} {
+		background: none;
+	}
 }
 
 .parallax-hero {

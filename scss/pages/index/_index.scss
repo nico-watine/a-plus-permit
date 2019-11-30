@@ -1,3 +1,5 @@
+$minWidth-540: "only screen and (min-width : 540px)";
+$minWidth-640: "only screen and (min-width : 640px)";
 $minWidth-1025: 'only screen and (min-width : 1025px)';
 
 .ladder-banner {
@@ -15,12 +17,23 @@ $minWidth-1025: 'only screen and (min-width : 1025px)';
 }
 
 .static-background {
-	background: #fff url('/img/ceiling-enlarged.jpg') center/100% no-repeat;
-
+	background: #fff url("/img/index/ladder-banner/ladder-bg_small.jpg") -80px top/cover no-repeat;
+	@media #{$minWidth-540} {
+		background-position: center;
+	}
+	@media #{$minWidth-640} {
+		background: #fff url("/img/index/ladder-banner/ladder-bg_medium.jpg") center/cover no-repeat;
+	}
 	@media #{$minWidth-1025} {
 		background: none;
 	}
 }
+
+
+
+
+
+
 
 .parallax-hero {
 	background: #fff url('/img/page-hero.jpg') center/100% no-repeat;

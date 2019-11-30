@@ -2030,7 +2030,19 @@ footer .colophon a:hover {
 }
 
 .static-background {
-  background: #fff url("/img/ceiling-enlarged.jpg") center/100% no-repeat;
+  background: #fff url("/img/index/ladder-banner/ladder-bg_small.jpg") -80px top/cover no-repeat;
+}
+
+@media only screen and (min-width: 540px) {
+  .static-background {
+    background-position: center;
+  }
+}
+
+@media only screen and (min-width: 640px) {
+  .static-background {
+    background: #fff url("/img/index/ladder-banner/ladder-bg_medium.jpg") center/cover no-repeat;
+  }
 }
 
 @media only screen and (min-width: 1025px) {

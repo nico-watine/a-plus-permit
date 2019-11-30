@@ -9,8 +9,8 @@
 	<link href="http://apluspermit.com/" rel="canonical">
 	<link href="/humans.txt" rel="author">
 
-    <link href="/css/style.css" rel="stylesheet">
-    <!-- <link href="/css/opt/style.css" rel="stylesheet"> -->
+	<link href="/css/style.css" rel="stylesheet">
+	<!-- <link href="/css/opt/style.css" rel="stylesheet"> -->
 
 </head>
 <body>
@@ -44,8 +44,10 @@
 	</section>
 
 	<!-- PARALLAX LADDER + SLOGAN -->
-	<section class="band2 ladder-slogan" data-start="background-position:0px 100px;" data-end="background-position:0px -500px;" >
-	    <h3 class="ladder">We help your company burst through the paper permit barrier!</h3>
+	<section class="ladder-banner parallax-background" data-start="background-position:0px 100px;" data-end="background-position:0px -500px;" >
+		<div class="inner display-flex static-background">
+			<h3 class="ladder">We help your company bust through the paper permit barrier!</h3>
+		</div>
 	</section>
 
 	<!-- SERVICES -->
@@ -87,7 +89,7 @@
 	</section>
 
 	<!-- CONTACT INFO SECTION -->
-    <div class="band main">
+	<div class="band main">
 		<div class="container">
 			<hr>
 			<div class="columns seven offset-by-one">
@@ -186,14 +188,12 @@
 
 <!-- SCRIPTS -->
 <script src="http://code.jquery.com/jquery-1.6.min.js"></script>
-<script type="text/javascript" src="js/skrollr.js"></script>
-<script type="text/javascript">
+<script src="js/jquery.reveal.js"></script>
+<script type="text/javascript" src="/js/skrollr.js"></script>
+<script>
 	skrollr.init({
-		forceHeight: false,
-		mobileDeceleration: 1,
 		smoothScrolling: true
 	});
 </script>
-<script src="js/jquery.reveal.js"></script>
 </body>
 </html>

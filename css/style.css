@@ -2017,18 +2017,19 @@ footer .colophon a:hover {
   height: 400px;
 }
 
-@media only screen and (min-width: 1025px) {
-  .parallax-background {
-    background: #fff url("/img/ceiling-enlarged.jpg") center/100% no-repeat;
-  }
-}
-
-.static-background {
+.ladder-banner .inner {
   height: 100%;
   -webkit-box-pack: center;
           justify-content: center;
   -webkit-box-align: center;
           align-items: center;
+}
+
+.parallax-background {
+  background: #fff url("/img/ceiling-enlarged.jpg") center/100% no-repeat;
+}
+
+.static-background {
   background: #fff url("/img/ceiling-enlarged.jpg") center/100% no-repeat;
 }
 

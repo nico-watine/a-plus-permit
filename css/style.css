@@ -1444,30 +1444,25 @@ a:active {
   min-width: 25%;
 }
 
-footer {
-  font-size: .5em;
-  text-align: center;
-}
-
-footer .colophon {
-  font-size: 10px;
+.colophon {
+  font-size: 0.75rem;
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 0.03125rem;
 }
 
-footer .colophon a {
-  font-size: 10px;
+.colophon a {
   border-bottom: 0;
-  margin: 0;
   text-decoration: none;
+  color: #0a0a0a;
 }
 
-footer .colophon a span {
+.colophon a span {
   text-decoration: underline;
 }
 
-footer .colophon a:hover {
+.colophon a:hover {
   text-decoration: underline;
+  color: #1468a0;
 }
 
 /*	--------------------------------------------------

@@ -1,27 +1,20 @@
-footer {
-	font-size: .5em;
-	text-align: center;
-}
+.colophon {
+	font-size: rem-calc(12);
+	text-transform: uppercase;
+	letter-spacing: rem-calc(0.5);
 
-footer {
-	.colophon {
-		font-size: 10px;
-		text-transform: uppercase;
-		letter-spacing: 1px;
+	a {
+		border-bottom: 0;
+		text-decoration: none;
+		color: $black;
 
-		a {
-			font-size: 10px;
-			border-bottom: 0;
-			margin: 0;
-			text-decoration: none;
+		span {
+			text-decoration: underline;
+		}
 
-			span {
-				text-decoration: underline;
-			}
-
-			&:hover {
-				text-decoration: underline;
-			}
+		&:hover {
+			text-decoration: underline;
+			color: #1468a0;
 		}
 	}
 }

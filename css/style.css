@@ -351,10 +351,6 @@ a:active {
   color: rgba(255, 255, 255, 0.5) !important;
 }
 
-strong {
-  color: #0a0a0a;
-}
-
 .text-truncate {
   max-width: 100% !important;
   overflow: hidden !important;
@@ -2059,11 +2055,4 @@ footer .colophon a:hover {
   width: 100%;
   text-align: center;
   padding: 10% 0 15% 0;
-}
-
-.ladder {
-  text-align: center;
-  color: #c33;
-  font-size: 33px;
-  line-height: 33px;
 }

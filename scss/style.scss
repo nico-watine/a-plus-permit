@@ -1,26 +1,11 @@
-@import '_var.scss';
+// Custom variables
+@import 'var/_var.scss';
 
-// normalize.css (v8.0.1)
-@import "../bower_components/normalize-css/normalize";
+// Functions
+@import 'functions/_functions.scss';
 
-// skeleton.css framework
-@import 'components/_skeleton.scss';
-
-// Typography
-@import 'components/_typography.scss';
-
-// Components
-@import 'components/_utilities.scss';
-
-// Site Blocks
-@import 'blocks/_body.scss';
+// Elements
+@import 'elements/_elements.scss';
 
 // Pages
-@import 'pages/index/_index.scss';
-
-// Organize this:
-@import 'organize/_style-2.scss';
-@import 'organize/_styles.scss';
-
-// Modal Reveal
-@import 'blocks/_modal.scss';
+@import 'pages/_pages.scss';

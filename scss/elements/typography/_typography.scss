@@ -1,0 +1,31 @@
+body {
+	font-family: $p-font-family;
+	font-weight: normal;
+	line-height: 1.5;
+	color: #353738;
+	background: #F3F3F3;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+@import '_headings.scss';
+
+p {
+	margin-top: 0;
+	margin-bottom: rem-calc(18);
+	font-size: rem-calc(18);
+	line-height: 1.6;
+	text-rendering: optimizeLegibility;
+}
+
+// @import '_buttons.scss';
+@import '_font-face.scss';
+@import '_font-family.scss';
+@import '_font-weight.scss';
+@import '_links.scss';
+// @import '_lists.scss';
+@import '_text-alignment.scss';
+@import '_text-color.scss';
+@import '_text-styles.scss';
+@import '_text-transform.scss';
+@import '_text-visibility.scss';

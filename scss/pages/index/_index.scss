@@ -1,9 +1,59 @@
+$minWidth-540: 'only screen and (min-width : 540px)';
+$minWidth-640: 'only screen and (min-width : 640px)';
+$minWidth-1025: 'only screen and (min-width : 1025px)';
 
-// HEADER STYLES
-@import "_header.scss";
+.ladder-banner {
+	height: 400px;
 
-// FOOTER STYLES
-@import "_footer.scss";
+	@media #{$minWidth-1025} {
+		height: 460px;
+	}
 
-// SECTION, ETC...
-@import "_main.scss";
+	.inner {
+		height: 100%;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.inner.static-background {
+		background: linear-gradient(
+		rgba(51,51,51,.60),
+		rgba(51,51,51,.60)
+		), url('/img/index/ladder-banner/ladder-bg_small.jpg') -80px top/cover no-repeat;
+
+		@media #{$minWidth-540} {
+			background-position: center;
+		}
+
+		@media #{$minWidth-640} {
+			background: linear-gradient(
+			rgba(51,51,51,.60),
+			rgba(51,51,51,.60)
+			), url('/img/index/ladder-banner/ladder-bg_medium.jpg') center/cover no-repeat;
+		}
+
+		@media #{$minWidth-1025} {
+			background: none;
+		}
+	}
+}
+
+.ladder-banner.parallax-background {
+	background: linear-gradient(
+	rgba(51,51,51,.60),
+	rgba(51,51,51,.60)
+	), url('/img/index/ladder-banner/ladder-bg_parallax.jpg') center/100% no-repeat;
+}
+
+
+
+
+
+
+
+.parallax-hero {
+	background: #fff url('/img/page-hero.jpg') center/100% no-repeat;
+	width: 100%;
+	text-align: center;
+	padding: 10% 0 15% 0;
+}

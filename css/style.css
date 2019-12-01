@@ -2013,6 +2013,12 @@ footer .colophon a:hover {
   height: 400px;
 }
 
+@media only screen and (min-width: 1025px) {
+  .ladder-banner {
+    height: 460px;
+  }
+}
+
 .ladder-banner .inner {
   height: 100%;
   -webkit-box-pack: center;

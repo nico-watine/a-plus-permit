@@ -396,6 +396,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/ceiling.jpg": {
+		"ft": 16384,
+		"iS": 63533,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/ceiling.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/cell2.png": {
 		"ft": 32768,
 		"iS": 1486,
@@ -405,6 +416,39 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/img/index/ladder-banner/ladder-bg_medium.jpg": {
+		"ft": 16384,
+		"iS": 63111,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/index/ladder-banner/ladder-bg_medium.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/index/ladder-banner/ladder-bg_parallax.jpg": {
+		"ft": 16384,
+		"iS": 65895,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/index/ladder-banner/ladder-bg_parallax.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/index/ladder-banner/ladder-bg_small.jpg": {
+		"ft": 16384,
+		"iS": 48036,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/index/ladder-banner/ladder-bg_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/index/who-we-are/kris-abercrombie-1.jpg": {

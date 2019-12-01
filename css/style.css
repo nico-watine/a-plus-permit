@@ -157,6 +157,7 @@ body {
   font-weight: normal;
   line-height: 1.5;
   color: #353738;
+  background: #F3F3F3;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -305,15 +306,6 @@ a:active {
   color: #1468a0;
 }
 
-a:link,
-a:visited,
-a:hover {
-  text-decoration: none;
-  border-bottom: 3px solid #c33;
-  font-size: 27px;
-  color: #333;
-}
-
 .text-left {
   text-align: left !important;
 }
@@ -358,10 +350,6 @@ a:hover {
 
 .text-white-50 {
   color: rgba(255, 255, 255, 0.5) !important;
-}
-
-strong {
-  color: #0a0a0a;
 }
 
 .text-truncate {
@@ -1456,30 +1444,25 @@ strong {
   min-width: 25%;
 }
 
-footer {
-  font-size: .5em;
-  text-align: center;
-}
-
-footer .colophon {
-  font-size: 10px;
+.colophon {
+  font-size: 0.75rem;
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 0.03125rem;
 }
 
-footer .colophon a {
-  font-size: 10px;
+.colophon a {
   border-bottom: 0;
-  margin: 0;
   text-decoration: none;
+  color: #0a0a0a;
 }
 
-footer .colophon a span {
+.colophon a span {
   text-decoration: underline;
 }
 
-footer .colophon a:hover {
+.colophon a:hover {
   text-decoration: underline;
+  color: #1468a0;
 }
 
 /*	--------------------------------------------------
@@ -2022,12 +2005,51 @@ footer .colophon a:hover {
   height: 0;
 }
 
-.ladder-slogan {
-  background: #fff url("/img/ceiling-enlarged.jpg") center/100% no-repeat;
-  width: 100%;
-  color: white;
-  text-align: center;
-  padding: 10% 0 15% 0;
+.ladder-banner {
+  height: 400px;
+}
+
+@media only screen and (min-width: 1025px) {
+  .ladder-banner {
+    height: 460px;
+  }
+}
+
+.ladder-banner .inner {
+  height: 100%;
+  -webkit-box-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+          align-items: center;
+}
+
+.ladder-banner .inner.static-background {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(51, 51, 51, 0.6)), to(rgba(51, 51, 51, 0.6))), url("/img/index/ladder-banner/ladder-bg_small.jpg") -80px top/cover no-repeat;
+  background: linear-gradient(rgba(51, 51, 51, 0.6), rgba(51, 51, 51, 0.6)), url("/img/index/ladder-banner/ladder-bg_small.jpg") -80px top/cover no-repeat;
+}
+
+@media only screen and (min-width: 540px) {
+  .ladder-banner .inner.static-background {
+    background-position: center;
+  }
+}
+
+@media only screen and (min-width: 640px) {
+  .ladder-banner .inner.static-background {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(51, 51, 51, 0.6)), to(rgba(51, 51, 51, 0.6))), url("/img/index/ladder-banner/ladder-bg_medium.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(51, 51, 51, 0.6), rgba(51, 51, 51, 0.6)), url("/img/index/ladder-banner/ladder-bg_medium.jpg") center/cover no-repeat;
+  }
+}
+
+@media only screen and (min-width: 1025px) {
+  .ladder-banner .inner.static-background {
+    background: none;
+  }
+}
+
+.ladder-banner.parallax-background {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(51, 51, 51, 0.6)), to(rgba(51, 51, 51, 0.6))), url("/img/index/ladder-banner/ladder-bg_parallax.jpg") center/100% no-repeat;
+  background: linear-gradient(rgba(51, 51, 51, 0.6), rgba(51, 51, 51, 0.6)), url("/img/index/ladder-banner/ladder-bg_parallax.jpg") center/100% no-repeat;
 }
 
 .parallax-hero {
@@ -2035,11 +2057,4 @@ footer .colophon a:hover {
   width: 100%;
   text-align: center;
   padding: 10% 0 15% 0;
-}
-
-.ladder {
-  text-align: center;
-  color: #c33;
-  font-size: 33px;
-  line-height: 33px;
 }

@@ -25,6 +25,22 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
+	"/_ignores/a-plus-permit.sublime-project": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_ignores/a-plus-permit.sublime-project",
+		"oF": 0
+		},
+	"/_ignores/a-plus-permit.sublime-workspace": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_ignores/a-plus-permit.sublime-workspace",
+		"oF": 0
+		},
 	"/_ignores/codekit-icon.png": {
 		"ft": 32768,
 		"iS": 1961,

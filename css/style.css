@@ -1464,17 +1464,6 @@ a:active {
   color: #1468a0;
 }
 
-/*	--------------------------------------------------
-	Reveal Modals
-	-------------------------------------------------- */
-.big-link {
-  display: block;
-  margin-top: 100px;
-  text-align: center;
-  font-size: 70px;
-  color: #06f;
-}
-
 .reveal-modal-bg {
   position: fixed;
   height: 100%;

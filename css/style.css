@@ -1482,11 +1482,8 @@ a:active {
   background: #eee;
   position: absolute;
   z-index: 101;
-  padding: 30px 40px 34px;
-  border-radius: 5px;
-  -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
-  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
-  -box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  padding: 24px 32px;
+  border-radius: 6px;
 }
 
 @media screen and (min-width: 520px) {
@@ -1536,22 +1533,6 @@ a:active {
   text-decoration: none;
 }
 
-/*
-
-	NOTES
-
-	Close button entity is &#215;
-
-	Example markup
-
-	<div id="myModal" class="reveal-modal">
-		<h2>Awesome. I have it.</h2>
-		<p class="lead">Your couch.  I it's mine.</p>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ultrices aliquet placerat. Duis pulvinar orci et nisi euismod vitae tempus lorem consectetur. Duis at magna quis turpis mattis venenatis eget id diam. </p>
-		<a class="close-reveal-modal">&#215;</a>
-	</div>
-
-	*/
 /*
 * Skeleton V1.2
 * Copyright 2011, Dave Gamache

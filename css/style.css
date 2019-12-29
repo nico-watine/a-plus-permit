@@ -1944,6 +1944,13 @@ a:active {
   height: 0;
 }
 
+.parallax-hero {
+  background: #fff url("/img/page-hero.jpg") center/100% no-repeat;
+  width: 100%;
+  text-align: center;
+  padding: 10% 0 15% 0;
+}
+
 .ladder-banner {
   height: 400px;
 }
@@ -1989,11 +1996,4 @@ a:active {
 .ladder-banner.parallax-background {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(51, 51, 51, 0.6)), to(rgba(51, 51, 51, 0.6))), url("/img/index/ladder-banner/ladder-bg_parallax.jpg") center/100% no-repeat;
   background: linear-gradient(rgba(51, 51, 51, 0.6), rgba(51, 51, 51, 0.6)), url("/img/index/ladder-banner/ladder-bg_parallax.jpg") center/100% no-repeat;
-}
-
-.parallax-hero {
-  background: #fff url("/img/page-hero.jpg") center/100% no-repeat;
-  width: 100%;
-  text-align: center;
-  padding: 10% 0 15% 0;
 }

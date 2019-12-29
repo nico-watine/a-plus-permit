@@ -1,10 +1,10 @@
 {
 	"name": "a-plus-permit",
 	"description": "www.apluspermit.com site repo",
+	"author": "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)",
 	"scripts": {
 		"build": "gulp"
 	},
-	"author": "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)",
 	"license": "MIT",
 	"repository": {
 		"type": "git",

@@ -155,164 +155,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"/bower.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/bower-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/bower_components/normalize-css/.bower.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "/bower_components/normalize-css/.bower.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/bower_components/normalize-css/.editorconfig": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/bower_components/normalize-css/.editorconfig",
-		"oF": 0
-		},
-	"/bower_components/normalize-css/.gitattributes": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/bower_components/normalize-css/.gitattributes",
-		"oF": 0
-		},
-	"/bower_components/normalize-css/.gitignore": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/bower_components/normalize-css/.gitignore",
-		"oF": 0
-		},
-	"/bower_components/normalize-css/.travis.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/bower_components/normalize-css/.travis.yml",
-		"oF": 0
-		},
-	"/bower_components/normalize-css/CHANGELOG.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/bower_components/normalize-css/CHANGELOG.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"/bower_components/normalize-css/CONTRIBUTING.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/bower_components/normalize-css/CONTRIBUTING.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"/bower_components/normalize-css/LICENSE.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/bower_components/normalize-css/LICENSE.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"/bower_components/normalize-css/normalize.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "/bower_components/normalize-css/normalize.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"/bower_components/normalize-css/package-lock.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "/bower_components/normalize-css/package-lock.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/bower_components/normalize-css/package.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "/bower_components/normalize-css/package.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/bower_components/normalize-css/README.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/bower_components/normalize-css/README.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"/bower_components/normalize-css/test.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/bower_components/normalize-css/test.html",
-		"oF": 0
-		},
 	"/css/opt/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -503,24 +345,46 @@
 		"oAP": "/index.html",
 		"oF": 0
 		},
-	"/js/jquery.reveal.js": {
+	"/js/scripts.min.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/js/min/jquery.reveal-min.js",
+		"oAP": "/js/min/scripts.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
 		},
-	"/js/skrollr.js": {
+	"/js/src/jquery.reveal.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/js/src/min/jquery.reveal-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/js/src/scripts.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/js/min/skrollr-min.js",
+		"oAP": "/js/scripts.min.js",
+		"oF": 2,
+		"sC": 0,
+		"tS": 0
+		},
+	"/js/src/skrollr.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/js/src/min/skrollr.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0

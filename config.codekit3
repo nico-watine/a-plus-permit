@@ -104,57 +104,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/_ignores/resources/modal-example/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_ignores/resources/modal-example/index.html",
-		"oF": 0
-		},
-	"/_ignores/resources/modal-example/jquery-1.4.4.min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/_ignores/resources/modal-example/min/jquery-1.4.4.min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"/_ignores/resources/modal-example/jquery.reveal.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/_ignores/resources/modal-example/min/jquery.reveal-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"/_ignores/resources/modal-example/modal-gloss.png": {
-		"ft": 32768,
-		"iS": 2912,
-		"oA": 0,
-		"oAP": "/_ignores/resources/modal-example/modal-gloss.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/_ignores/resources/modal-example/reveal.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/_ignores/resources/modal-example/reveal-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"/css/opt/style.css": {
 		"aP": 1,
 		"bl": 0,

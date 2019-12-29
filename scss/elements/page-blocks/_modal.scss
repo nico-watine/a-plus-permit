@@ -15,23 +15,17 @@
 	top: 100px;
 	background: #eee;
 	position: absolute;
+	width: 100%;
 	z-index: 101;
 	padding: 24px 32px;
 	border-radius: 6px;
 }
 
-@media screen and (min-width: 520px){
+@media screen and (min-width: 480px){
 	.reveal-modal {
-		visibility: hidden;
-		top: 100px;
 		width: 460px;
 		left: 50%;
 		margin-left: -230px;
-		background: #eee;
-		position: absolute;
-		z-index: 101;
-		padding: 24px 32px;
-		border-radius: 6px;
 	}
 }
 

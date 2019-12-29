@@ -313,6 +313,461 @@
 		"oAP": "/bower_components/normalize-css/test.html",
 		"oF": 0
 		},
+	"/bower_components/skrollr/.bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/.bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/bower_components/skrollr/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/bower_components/skrollr/CONTRIBUTING.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/CONTRIBUTING.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/skrollr/dist/skrollr.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/bower_components/skrollr/dist/skrollr.min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/bower_components/skrollr/examples/amd.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/amd.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/examples/anchor_target.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/anchor_target.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/examples/anchors.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/anchors.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/examples/bg_constant_speed_less.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/bg_constant_speed_less.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/examples/bg_constant_speed_more.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/bg_constant_speed_more.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/examples/circular_motion.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/circular_motion.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/examples/classic.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/classic.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/examples/docu/1.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/docu/1.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/examples/docu/2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/docu/2.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/examples/docu/3.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/docu/3.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/examples/docu/4.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/docu/4.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/examples/fixed-positioning.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/fixed-positioning.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/bower_components/skrollr/examples/fixed_nav.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/fixed_nav.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/examples/gradientsmotherfucker.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/gradientsmotherfucker.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/examples/images/bubbles.png": {
+		"ft": 32768,
+		"iS": 7451,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/images/bubbles.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bower_components/skrollr/examples/images/bubbles2.png": {
+		"ft": 32768,
+		"iS": 22292,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/images/bubbles2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bower_components/skrollr/examples/images/bubbles3.png": {
+		"ft": 32768,
+		"iS": 27390,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/images/bubbles3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bower_components/skrollr/examples/images/bubbles_small.png": {
+		"ft": 32768,
+		"iS": 14467,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/images/bubbles_small.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bower_components/skrollr/examples/images/face.png": {
+		"ft": 32768,
+		"iS": 1759,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/images/face.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bower_components/skrollr/examples/images/kitteh1.jpg": {
+		"ft": 16384,
+		"iS": 183874,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/images/kitteh1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/bower_components/skrollr/examples/images/kitteh2.jpg": {
+		"ft": 16384,
+		"iS": 116659,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/images/kitteh2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/bower_components/skrollr/examples/images/kitteh3.jpg": {
+		"ft": 16384,
+		"iS": 84459,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/images/kitteh3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/bower_components/skrollr/examples/images/path.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/images/path.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/bower_components/skrollr/examples/images/slj.png": {
+		"ft": 32768,
+		"iS": 122555,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/images/slj.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bower_components/skrollr/examples/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/main.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/bower_components/skrollr/examples/path.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/path.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/examples/pausing.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/pausing.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/examples/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/skrollr/examples/scripts/main.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/scripts/main.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/bower_components/skrollr/examples/scripts/require.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/scripts/require.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/bower_components/skrollr/examples/svg.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/examples/svg.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/Gruntfile.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/Gruntfile.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/bower_components/skrollr/guide/anchor-position-guide.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/guide/anchor-position-guide.pdf",
+		"oF": 0
+		},
+	"/bower_components/skrollr/guide/anchor-position-guide.png": {
+		"ft": 32768,
+		"iS": 13771,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/guide/anchor-position-guide.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bower_components/skrollr/HISTORY.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/HISTORY.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/skrollr/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/index.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/LICENSE.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/LICENSE.txt",
+		"oF": 0
+		},
+	"/bower_components/skrollr/package.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/package.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/bower_components/skrollr/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/skrollr/shim.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/shim.html",
+		"oF": 0
+		},
+	"/bower_components/skrollr/src/skrollr.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/skrollr/src/skrollr.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"/css/opt/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -503,13 +958,13 @@
 		"oAP": "/index.html",
 		"oF": 0
 		},
-	"/js/jquery.reveal.js": {
+	"/js/scripts.min.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/js/min/jquery.reveal-min.js",
+		"oAP": "/js/min/scripts.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -522,6 +977,28 @@
 		"oA": 0,
 		"oAP": "/js/min/skrollr-min.js",
 		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/js/src/jquery.reveal.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/js/src/min/jquery.reveal-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/js/src/scripts.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/scripts.min.js",
+		"oF": 2,
 		"sC": 0,
 		"tS": 0
 		},

@@ -15,6 +15,7 @@
     "bower_components"
   ],
   "dependencies": {
-    "normalize-css": "^8.0.1"
+    "normalize-css": "^8.0.1",
+    "skrollr": "0.6.30"
   }
 }

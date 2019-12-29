@@ -71,39 +71,6 @@
 		"oAP": "/_ignores/original-site/original-site-files.zip",
 		"oF": 0
 		},
-	"/_ignores/resources/body-parallax.jpg": {
-		"ft": 16384,
-		"iS": 2977058,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_ignores/resources/body-parallax.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_ignores/resources/contact-icons.png": {
-		"ft": 32768,
-		"iS": 18425,
-		"oA": 0,
-		"oAP": "/_ignores/resources/contact-icons.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/_ignores/resources/header-parallax.png": {
-		"ft": 32768,
-		"iS": 1536473,
-		"oA": 0,
-		"oAP": "/_ignores/resources/header-parallax.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/css/opt/style.css": {
 		"aP": 1,
 		"bl": 0,

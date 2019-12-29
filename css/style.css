@@ -1468,7 +1468,6 @@ a:active {
   position: fixed;
   height: 100%;
   width: 100%;
-  background: #000;
   background: rgba(0, 0, 0, 0.8);
   z-index: 100;
   display: none;
@@ -1493,26 +1492,6 @@ a:active {
     left: 50%;
     margin-left: -230px;
   }
-}
-
-.reveal-modal.small {
-  width: 200px;
-  margin-left: -140px;
-}
-
-.reveal-modal.medium {
-  width: 400px;
-  margin-left: -240px;
-}
-
-.reveal-modal.large {
-  width: 600px;
-  margin-left: -340px;
-}
-
-.reveal-modal.xlarge {
-  width: 800px;
-  margin-left: -440px;
 }
 
 .reveal-modal .close-reveal-modal {

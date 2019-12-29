@@ -353,7 +353,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "/bower_components/skrollr/dist/skrollr.min.js",
 		"oF": 0,
 		"sC": 0,
@@ -988,6 +988,17 @@
 		"oA": 0,
 		"oAP": "/js/scripts.min.js",
 		"oF": 2,
+		"sC": 0,
+		"tS": 0
+		},
+	"/js/src/skrollr.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/js/src/min/skrollr.min-min.js",
+		"oF": 0,
 		"sC": 0,
 		"tS": 0
 		},

@@ -1944,11 +1944,10 @@ a:active {
   height: 0;
 }
 
-.parallax-hero {
-  background: #fff url("/img/page-hero.jpg") center/100% no-repeat;
-  width: 100%;
-  text-align: center;
-  padding: 10% 0 15% 0;
+.parallax-header {
+  background: #f3f3f3 url("/img/page-hero.jpg") center/cover no-repeat;
+  padding: 10% 0 15%;
+  border-bottom: 0.375rem solid #c33;
 }
 
 .ladder-banner {

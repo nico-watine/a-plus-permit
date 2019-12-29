@@ -110,28 +110,6 @@
 		"oAP": "/humans.txt",
 		"oF": 0
 		},
-	"/img/about_us-2.png": {
-		"ft": 32768,
-		"iS": 2403,
-		"oA": 0,
-		"oAP": "/img/about_us-2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/address2.png": {
-		"ft": 32768,
-		"iS": 1129,
-		"oA": 0,
-		"oAP": "/img/address2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/img/background2-white.jpg": {
 		"ft": 16384,
 		"iS": 121766,
@@ -163,17 +141,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
-		},
-	"/img/cell2.png": {
-		"ft": 32768,
-		"iS": 1486,
-		"oA": 0,
-		"oAP": "/img/cell2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"/img/kris-abercrombie.jpg": {

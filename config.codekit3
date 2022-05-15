@@ -118,6 +118,19 @@
       "oAP" : "\/humans.txt",
       "oF" : 0
     },
+    "\/img\/about-us.png" : {
+      "ft" : 32768,
+      "iS" : 2403,
+      "oA" : 1,
+      "oAP" : "\/img\/about-us.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/background2-white.jpg" : {
       "ft" : 16384,
       "iS" : 121766,
